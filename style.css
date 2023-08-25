@@ -1,0 +1,11 @@
+body {
+    margin: 0px;
+}
+
+.container {
+    display: flex;
+    height: 100vp;
+    flex-wrap: wrap;
+    cursor: pointer;
+}
+
