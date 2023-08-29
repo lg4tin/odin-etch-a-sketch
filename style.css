@@ -2,6 +2,12 @@ body {
     margin: 0px;
 }
 
+.main-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 .container {
     display: flex;
     display: flex;
