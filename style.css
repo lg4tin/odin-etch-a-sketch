@@ -16,6 +16,8 @@ body {
     width: 800px;
     flex-wrap: wrap;
     cursor: pointer;
+    min-height: 800px;
+    min-width: 800px;
 }
 
 .buttons {
