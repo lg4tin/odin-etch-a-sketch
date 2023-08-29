@@ -4,8 +4,15 @@ body {
 
 .container {
     display: flex;
-    height: 100vp;
+    display: flex;
+    border: thick double #32a1ce;
+    height: 800px;
+    width: 800px;
     flex-wrap: wrap;
     cursor: pointer;
+}
+
+div {
+    flex-shrink: 1;
 }
 
